@@ -53,12 +53,3 @@ The dataset evaluates models across the following dimensions:
 
 ---
 
-## 🔢 Calculation Logic
-
-The dataset challenges LLMs to maintain accurate ledger states using the following balance formula:
-
-$$B_{n} = B_{n-1} + T_{n}$$
-
-Where:
-*   $B_{n}$ is the current balance.
-*   $T_{n}$ is the transaction amount (negative for spending).
