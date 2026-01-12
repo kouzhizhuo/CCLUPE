@@ -3,10 +3,9 @@ CCLUPE is a benchmark grounded in authentic consumer credit transaction logs, co
 Here we provided showcases CCLUPE, a specialized dataset designed for evaluating the capabilities of Large Language Models (LLMs) in the domain of Credit Card Log Understanding and Personal/Enterprise analysis.
 
 # CCLUPE Dataset
+<img width="1202" height="796" alt="image" src="https://github.com/user-attachments/assets/3854ec36-a7e8-4c06-ac7a-733067268854" />
 
 > **Credit Card Log Understanding and Personal/Enterprise analysis**
-
-![CCLUPE Overview](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/0b106263541b446797743d26279f6580~tplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=2692&h=906&s=1200373&e=png&b=fdfdfd)
 
 ## 📊 Dataset Statistics
 
