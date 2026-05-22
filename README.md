@@ -10,9 +10,7 @@ This repository provides the public benchmark data and documentation for CCLUPE.
 
 <img width="1202" height="796" alt="CCLUPE dataset taxonomy" src="https://github.com/user-attachments/assets/3854ec36-a7e8-4c06-ac7a-733067268854" />
 
-## Rebuttal-Driven Clarifications
-
-The documentation has been revised to make the following points explicit:
+## Clarifications
 
 - The released transaction logs are synthetic and expert-guided, not authentic customer transaction logs.
 - CCLUPE stands for **Credit Context Log Understanding and Prediction Evaluation**, not "Credit Card Log."
