@@ -16,7 +16,7 @@ This repository provides the public benchmark data and documentation for CCLUPE.
 - CCLUPE stands for **Credit Context Log Understanding and Prediction Evaluation**, not "Credit Card Log."
 - Synthetic fidelity is described conservatively: generated logs are calibrated to underwriting-relevant patterns but should not be interpreted as de-identified real statements.
 - Quality control uses deterministic answer checks, expert review, and a stratified multi-reviewer validation subset for difficult or underrepresented items.
-- The release is intended for benchmark research and model evaluation, not for deployment certification or real credit decisioning.
+- The release is intended for benchmark research and model evaluation.
 
 ## Dataset Statistics
 
